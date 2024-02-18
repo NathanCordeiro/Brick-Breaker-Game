@@ -20,7 +20,7 @@ Welcome to Brick Breaker – the ultimate nostalgia-inducing arcade experience b
 
 ## Installation
 
-To play Brick Breaker Blitz:
+To play Brick Breaker :
 
 1. Clone this repository to your local machine:
 git clone https://github.com/NathanCordeiro/Brick-Breaker-Game.git
